@@ -1,0 +1,13 @@
+Name: Saksham Gupta | Roll No: 2601730443 | Date: Wed Nov 25 08:28:53 UTC 2026
+------------------------------------------------------------
+CPU(s):                                  5
+Model name:                              13th Gen Intel(R) Core(TM) i5-13420H
+NUMA node0 CPU(s):                       0-4
+Total Memory: 2.8Gi | Used Memory: 423Mi
+--- Top 3 Processes by CPU ---
+    PID COMMAND         %CPU
+      1 systemd          0.1
+    297 Relay(300)       0.0
+     91 systemd-udevd    0.0
+------------------------------------------------------------
+Report generated successfully.
